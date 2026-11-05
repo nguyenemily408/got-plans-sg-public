@@ -1,0 +1,1073 @@
+{
+  "lastUpdated": "2026-11-05",
+  "events": [
+    {
+      "id": "cats",
+      "name": "CATS the Musical",
+      "category": "Arts & theatre",
+      "when": "29 Oct – 22 Nov · Tue–Fri 8pm; Sat 2pm & 8pm; Sun 1pm & 6.30pm",
+      "place": "Sands Theatre, Marina Bay Sands",
+      "price": "From S$68 · booking fee extra",
+      "desc": "A night of music, dance and feline spectacle at the Jellicle Ball. For ages 7 and above. Ticket prices vary by performance and seat; booking fees apply.",
+      "source": "Marina Bay Sands",
+      "sourceType": "Website",
+      "url": "https://www.marinabaysands.com/entertainment/shows/cats-the-musical.html",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-17",
+        "2026-11-18",
+        "2026-11-19",
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "graphic": "A night<br>at the theatre.",
+      "color": "#eed9b4",
+      "ink": "#62442f",
+      "image": {
+        "src": "/event-photos/theatre-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/people-at-theater-713149/",
+        "credit": "Monica Silvestre / Pexels",
+        "alt": "Illustrative stock photo of a theatre audience facing a red stage curtain; not a photo of CATS.",
+        "width": 1400,
+        "height": 1050,
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "Marina Bay",
+      "entryCost": {
+        "kind": "paid",
+        "from": 68
+      },
+      "attendance": [
+        "Booking fee extra; prices vary by seat and performance",
+        "Ages 7 and above"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "hhn",
+      "name": "Halloween Horror Nights 14",
+      "category": "Halloween",
+      "when": "29 Oct – 1 Nov · 7.30pm–12.30am",
+      "place": "Universal Studios Singapore, Sentosa",
+      "price": "Check original listing",
+      "desc": "Four haunted houses and a collection of scares inspired by local folklore.",
+      "source": "Resorts World Sentosa",
+      "sourceType": "Website",
+      "url": "https://www.rwsentosa.com/en/play/universal-studios-singapore/halloween-horror-nights-14",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "endAt": "2026-11-02T00:30:00+08:00",
+      "featured": false,
+      "dateRangeOnly": true,
+      "graphic": "After dark.<br>If you dare.",
+      "color": "#d8d2e6",
+      "ink": "#413b5a",
+      "image": {
+        "src": "/event-photos/hhn.jpg",
+        "sourceUrl": "https://www.rwsentosa.com/en/play/universal-studios-singapore/halloween-horror-nights-14",
+        "credit": "Resorts World Sentosa",
+        "fit": "contain",
+        "alt": "Official Halloween Horror Nights 14 promotional artwork.",
+        "checkedAt": "2026-10-26",
+        "width": 1920,
+        "height": 1080
+      },
+      "area": "Sentosa",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "partial"
+      }
+    },
+    {
+      "id": "haunts",
+      "name": "Haunts & Handmade",
+      "category": "Markets & shopping",
+      "when": "31 Oct – 1 Nov · Venue hours 10am–8pm; confirm market hours",
+      "place": "Changi Experience Studio, Jewel L4",
+      "price": "Adult admission S$20",
+      "desc": "A Halloween market with local makers, treats and hands-on workshops. Adult admission includes S$10 event credits; workshops cost extra.",
+      "source": "Changi Airport",
+      "sourceType": "Website",
+      "url": "https://www.changiairport.com/en/happenings/events-directory/halloween-festival.html",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "featured": false,
+      "graphic": "A little<br>handmade magic.",
+      "color": "#e7ebca",
+      "ink": "#4b5e36",
+      "image": {
+        "src": "/event-photos/haunts.jpg",
+        "sourceUrl": "https://www.changiairport.com/en/happenings/events-directory/halloween-festival.html",
+        "credit": "Changi Airport",
+        "fit": "cover",
+        "alt": "A handmade waffle-shaped plush toy pictured on Changi’s Halloween market listing.",
+        "checkedAt": "2026-10-26",
+        "width": 2250,
+        "height": 1800
+      },
+      "publicCheckNote": "Dates, venue and admission confirmed. Check the organiser for market hours.",
+      "area": "Changi",
+      "entryCost": {
+        "kind": "paid",
+        "from": 20
+      },
+      "attendance": [
+        "Workshops cost extra; check market hours"
+      ],
+      "factCheck": {
+        "status": "partial"
+      }
+    },
+    {
+      "id": "woodlands",
+      "name": "Woodlands Fright Night",
+      "category": "Halloween",
+      "when": "31 Oct – 1 Nov · 7–9.30pm",
+      "place": "Woodlands Community Club, 1 Woodlands Street 81",
+      "price": "S$6 / person / day",
+      "desc": "Two themed haunted houses, snack stalls and activities for a spooky night out.",
+      "source": "OnePA",
+      "sourceType": "Website",
+      "url": "https://www.onepa.gov.sg/events/woodlands-fright-night-2026-e55430501",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "graphic": "Your local<br>haunt.",
+      "color": "#f2d0b9",
+      "ink": "#794e37",
+      "image": {
+        "src": "/event-photos/woodlands-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/halloween-pumpkins-and-candles-18913292/",
+        "credit": "Dagmara Dombrovska / Pexels",
+        "alt": "Stock photo of carved Halloween pumpkins and candles.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 502,
+        "height": 750
+      },
+      "area": "Woodlands",
+      "entryCost": {
+        "kind": "paid",
+        "from": 6
+      },
+      "calendarTime": {
+        "start": "19:00",
+        "end": "21:30"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "whispers",
+      "name": "Whispers of the Underworld",
+      "category": "Halloween",
+      "when": "31 Oct · 7–10pm",
+      "place": "Multipurpose Hall, Level 1, Tanjong Pagar CC, 101 Cantonment Road",
+      "price": "S$6 / person",
+      "desc": "A haunted house, games, performances and a family costume competition.",
+      "source": "OnePA",
+      "sourceType": "Website",
+      "url": "https://www.onepa.gov.sg/events/whispers-of-the-underworld-62129814",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31"
+      ],
+      "graphic": "Something<br>wicked awaits.",
+      "color": "#cbd9d5",
+      "ink": "#355e54",
+      "image": {
+        "src": "/event-photos/whispers-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/burning-candles-beside-pumpkins-5472562/",
+        "credit": "olia danilevich / Pexels",
+        "alt": "Stock photo of pumpkins and warm candlelight.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 1125,
+        "height": 750
+      },
+      "area": "CBD / Tanjong Pagar",
+      "entryCost": {
+        "kind": "paid",
+        "from": 6
+      },
+      "calendarTime": {
+        "start": "19:00",
+        "end": "22:00"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "makers",
+      "name": "The Makers Ground @ EXPO",
+      "category": "Markets & shopping",
+      "when": "31 Oct – 1 Nov · 10am–6pm",
+      "place": "Singapore EXPO, Foyer 2, Levels 1 & 2",
+      "price": "Free admission",
+      "desc": "Make time for a weekend browse at this market and shopping event.",
+      "source": "Singapore EXPO",
+      "sourceType": "Website",
+      "url": "https://www.singaporeexpo.com.sg/events-at-expo/the-makers-ground-at-expo/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "endAt": "2026-11-01T18:00:00+08:00",
+      "graphic": "Find your<br>next favourite.",
+      "color": "#e8d1d0",
+      "ink": "#79504f",
+      "image": {
+        "src": "/event-photos/makers-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/collection-of-clay-pottery-on-display-at-market-34733198/",
+        "credit": "Gizem toprak / Pexels",
+        "alt": "Stock photo of handmade ceramic bowls and jugs at a market.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 1125,
+        "height": 750
+      },
+      "area": "Changi",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "10:00",
+        "end": "18:00"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "caps",
+      "name": "CAPS@EXPO",
+      "category": "Markets & shopping",
+      "when": "31 Oct – 1 Nov · 10am–9pm",
+      "place": "Singapore EXPO, Hall 6A",
+      "price": "Free admission",
+      "desc": "Trading cards and collectibles for collectors and curious browsers alike.",
+      "source": "Singapore EXPO",
+      "sourceType": "Website",
+      "url": "https://www.singaporeexpo.com.sg/events-at-expo/caps-cardshow/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "endAt": "2026-11-01T21:00:00+08:00",
+      "graphic": "Trade. Collect.<br>Repeat.",
+      "color": "#cbd8ed",
+      "ink": "#3e567e",
+      "image": {
+        "src": "/event-photos/cards-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/collectible-cards-with-fictional-creatures-drawn-on-backs-7708409/",
+        "credit": "Caleb Oquendo / Pexels",
+        "alt": "Illustrative stock photo of collectible trading cards on a dark surface.",
+        "width": 1400,
+        "height": 933,
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "Changi",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "10:00",
+        "end": "21:00"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "fashion",
+      "name": "The Big Fashion Hunt",
+      "category": "Markets & shopping",
+      "when": "31 Oct – 1 Nov · 10am–9pm",
+      "place": "Singapore EXPO, Hall 5A",
+      "price": "Free admission",
+      "desc": "Go looking for your next wardrobe find at this weekend fashion event.",
+      "source": "Singapore EXPO",
+      "sourceType": "Website",
+      "url": "https://www.singaporeexpo.com.sg/events-at-expo/the-big-fashion-hunt/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "endAt": "2026-11-01T21:00:00+08:00",
+      "graphic": "The thrill<br>of the find.",
+      "color": "#ece2b9",
+      "ink": "#726037",
+      "image": {
+        "src": "/event-photos/fashion-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/hangers-in-a-clothing-store-8306359/",
+        "credit": "Ron Lach / Pexels",
+        "alt": "Stock photo of clothes on wooden hangers in a boutique.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 500,
+        "height": 750
+      },
+      "area": "Changi",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "10:00",
+        "end": "21:00"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "beauty",
+      "name": "Mega Beauty Festival",
+      "category": "Markets & shopping",
+      "when": "30 Oct – 1 Nov & 6–9 Nov · 10am–9pm",
+      "place": "Singapore EXPO, Hall 5B",
+      "price": "Free admission",
+      "desc": "A weekend beauty fair with plenty to browse under one roof.",
+      "source": "Singapore EXPO",
+      "sourceType": "Website",
+      "url": "https://www.singaporeexpo.com.sg/events-at-expo/mega-beauty-festival/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09"
+      ],
+      "endAt": "2026-11-09T21:00:00+08:00",
+      "graphic": "A moment<br>for yourself.",
+      "color": "#e6d9e4",
+      "ink": "#745572",
+      "image": {
+        "src": "/event-photos/beauty-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/photo-of-beauty-products-3552894/",
+        "credit": "Nothing Ahead / Pexels",
+        "alt": "Illustrative stock photo of makeup brushes and beauty products on a light surface.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 1400,
+        "height": 933
+      },
+      "area": "Changi",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "10:00",
+        "end": "21:00"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "seniors",
+      "name": "National Celebration of Seniors",
+      "category": "Community",
+      "when": "30–31 Oct · 10am–8pm",
+      "place": "HDB Hub, 530 Lorong 6 Toa Payoh",
+      "price": "Check original listing",
+      "desc": "Activities for seniors and families, including Active Health fitness challenges.",
+      "source": "ActiveSG",
+      "sourceType": "Website",
+      "url": "https://www.activesgcircle.gov.sg/read/whats-happening-this-month",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "endAt": "2026-10-31T20:00:00+08:00",
+      "featured": false,
+      "discoveryExcluded": true,
+      "graphic": "Good company.<br>Great energy.",
+      "color": "#d6e3be",
+      "ink": "#4d6539",
+      "image": {
+        "src": "/event-photos/seniors-stock.jpg",
+        "sourceUrl": "https://www.pexels.com/photo/elderly-people-having-a-get-together-8153752/",
+        "credit": "Alena Darmel / Pexels",
+        "alt": "Illustrative stock photo of four older adults smiling and chatting around a cafe table.",
+        "fit": "cover",
+        "kind": "stock",
+        "licenseUrl": "https://www.pexels.com/license/",
+        "checkedAt": "2026-10-26",
+        "width": 1400,
+        "height": 933,
+        "position": "center 25%"
+      },
+      "area": "Toa Payoh",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "surprisingly-spiritual-2026-10-30",
+      "name": "Surprisingly Spiritual",
+      "category": "Social & meetups",
+      "when": "30 Oct · 7–9pm",
+      "place": "Stranger Convos at Mad Roaster’s Slow Bar",
+      "price": "S$21 · drink included",
+      "desc": "An open discussion about finding calm, focus and meaning, with small-group conversations and Q&A. Open to religious, spiritual, non-religious and curious guests.",
+      "source": "@strangerconvos",
+      "sourceType": "Instagram",
+      "url": "https://www.instagram.com/strangerconvos/p/De6rqJeFHq0/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30"
+      ],
+      "endAt": "2026-10-30T21:00:00+08:00",
+      "featured": false,
+      "graphic": "Good questions.<br>New connections.",
+      "color": "#d8e3d0",
+      "ink": "#425b3d",
+      "image": {
+        "src": "/event-photos/surprisingly-spiritual-2026-10-30.jpg",
+        "sourceUrl": "https://www.instagram.com/strangerconvos/p/De6rqJeFHq0/",
+        "credit": "@strangerconvos",
+        "fit": "contain",
+        "alt": "Surprisingly Spiritual announcement showing a group discussion and event details.",
+        "checkedAt": "2026-10-26",
+        "width": 512,
+        "height": 640
+      },
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "tova-shanghai-2026-10-24",
+      "name": "TOVA Shanghai Horror Nights",
+      "category": "Social & meetups",
+      "when": "24 Oct · 4–7pm",
+      "place": "Lulu’s Lounge, Singapore",
+      "price": "Check original listing",
+      "desc": "A Shanghai-themed afternoon with DJs, unlimited dim sum and a welcome cocktail. Ticket holders only; this event has finished.",
+      "source": "@tova.social.sg",
+      "sourceType": "Instagram",
+      "url": "https://www.instagram.com/tova.social.sg/p/Deb8YT9FKep/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-24"
+      ],
+      "endAt": "2026-10-24T19:00:00+08:00",
+      "featured": false,
+      "graphic": "Dim sum.<br>Dance floor.",
+      "color": "#ead0cb",
+      "ink": "#73433f",
+      "image": {
+        "src": "/event-photos/tova-shanghai-2026-10-24.jpg",
+        "sourceUrl": "https://www.instagram.com/tova.social.sg/p/Deb8YT9FKep/",
+        "credit": "@tova.social.sg",
+        "fit": "contain",
+        "alt": "TOVA’s Ghosts of Shanghai promotional artwork.",
+        "checkedAt": "2026-10-26",
+        "width": 640,
+        "height": 640
+      },
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "friendzone-digital-for-life-2026",
+      "name": "Friendzone at Digital for Life",
+      "category": "Social & meetups",
+      "when": "24–25 Oct · 6.45–7.30pm & 8–8.45pm",
+      "place": "Youth Zone, Central Court, VivoCity L1",
+      "price": "Check original listing",
+      "desc": "Small-group conversations about friendships in the digital age, for ages 18–35. These sessions have finished.",
+      "source": "@friendzonesg",
+      "sourceType": "Instagram",
+      "url": "https://www.instagram.com/friendzonesg/p/DehBBahlbKL/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-24",
+        "2026-10-25"
+      ],
+      "endAt": "2026-10-25T20:45:00+08:00",
+      "featured": false,
+      "graphic": "Less scrolling.<br>More talking.",
+      "color": "#d5e2dc",
+      "ink": "#3d6356",
+      "image": {
+        "src": "/event-photos/friendzone-digital-for-life-2026.jpg",
+        "sourceUrl": "https://www.instagram.com/friendzonesg/p/DehBBahlbKL/",
+        "credit": "@friendzonesg",
+        "fit": "contain",
+        "alt": "Friendzone’s Digital for Life announcement image.",
+        "checkedAt": "2026-10-26",
+        "width": 640,
+        "height": 640
+      },
+      "area": "HarbourFront",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "unverified"
+      }
+    },
+    {
+      "id": "gatsby-jazz-ballet-2027",
+      "name": "The Great Gatsby: A Jazz Ballet Odyssey",
+      "category": "Arts & theatre",
+      "when": "27–31 Jan & 2–4 Feb 2027 · Check individual showtimes",
+      "place": "Esplanade Theatre",
+      "price": "From S$69",
+      "desc": "A jazz-and-ballet adaptation of The Great Gatsby with a live jazz band. The announcement gives a season range; confirm individual performance dates before booking.",
+      "source": "@timeoutsg",
+      "sourceType": "Instagram",
+      "url": "https://www.instagram.com/timeoutsg/p/De0-Na0EYEQ/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2027-01-27",
+        "2027-01-28",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31",
+        "2027-02-02",
+        "2027-02-03",
+        "2027-02-04"
+      ],
+      "featured": false,
+      "graphic": "The Jazz Age.<br>On stage.",
+      "color": "#ecdcb0",
+      "ink": "#665235",
+      "image": {
+        "src": "/event-photos/gatsby-jazz-ballet-2027.jpg",
+        "sourceUrl": "https://www.instagram.com/timeoutsg/p/De0-Na0EYEQ/",
+        "credit": "@timeoutsg",
+        "fit": "contain",
+        "alt": "Time Out Singapore’s announcement cover for The Great Gatsby: A Jazz Ballet Odyssey.",
+        "checkedAt": "2026-10-26",
+        "width": 512,
+        "height": 640
+      },
+      "publicCheckNote": "Dates and venue confirmed. Check the organiser for current ticket prices.",
+      "area": "Marina Bay",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "factCheck": {
+        "status": "partial"
+      }
+    },
+    {
+      "id": "culture-exchange-2026-10-27",
+      "name": "Make Friends at International Culture Exchange",
+      "category": "Social & meetups",
+      "when": "27 Oct · 7–10.30pm",
+      "place": "Ipoh Buntong Tea House, 111 Middle Road, National Design Centre",
+      "price": "Check original listing",
+      "desc": "Meet new people over tea, coffee and conversations about different cultures, followed by dinner. RSVP with the organiser.",
+      "source": "Singapore’s Language & Culture Exchange",
+      "sourceType": "Website",
+      "url": "https://www.meetup.com/singapores-language-culture-exchange/events/313260674/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-27"
+      ],
+      "endAt": "2026-10-27T22:30:00+08:00",
+      "featured": true,
+      "graphic": "New faces.<br>Shared stories.",
+      "color": "#e8d1d0",
+      "ink": "#79504f",
+      "image": {
+        "src": "/event-photos/culture-exchange-2026-10-27.jpg",
+        "sourceUrl": "https://www.meetup.com/singapores-language-culture-exchange/events/313260674/",
+        "credit": "Singapore’s Language & Culture Exchange",
+        "fit": "cover",
+        "alt": "People chatting around a table in the culture-exchange listing.",
+        "checkedAt": "2026-10-26",
+        "width": 600,
+        "height": 338
+      },
+      "connectionType": "meet-people",
+      "area": "Bugis / City Hall",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "calendarTime": {
+        "start": "19:00",
+        "end": "22:30"
+      },
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "king-pawn-2026-10-27",
+      "name": "Board Games at King and the Pawn",
+      "category": "Social & meetups",
+      "when": "27 Oct · 6.30–10.30pm",
+      "place": "King and the Pawn, 17 Purvis Street #01-01",
+      "price": "S$10 + service charge & GST",
+      "desc": "An evening of board games for individuals and groups. Drinks cost extra. RSVP required; arrive by 7.30pm to keep your spot.",
+      "source": "Singapore International Boardgames Meetup",
+      "sourceType": "Website",
+      "url": "https://www.meetup.com/singapore-international-boardgames-meetup/events/316309147/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-27"
+      ],
+      "endAt": "2026-10-27T22:30:00+08:00",
+      "featured": true,
+      "graphic": "Your move.<br>New company.",
+      "color": "#ecdcb0",
+      "ink": "#665235",
+      "image": {
+        "src": "/event-photos/king-pawn-2026-10-27.jpg",
+        "sourceUrl": "https://www.meetup.com/singapore-international-boardgames-meetup/events/316309147/",
+        "credit": "Singapore International Boardgames Meetup",
+        "fit": "cover",
+        "alt": "Tables, board games and seating inside King and the Pawn, pictured in the event listing.",
+        "checkedAt": "2026-10-26",
+        "width": 600,
+        "height": 337
+      },
+      "connectionType": "meet-people",
+      "area": "Bugis / City Hall",
+      "entryCost": {
+        "kind": "paid",
+        "from": 10
+      },
+      "calendarTime": {
+        "start": "18:30",
+        "end": "22:30"
+      },
+      "attendance": [
+        "Arrive by 7.30pm to keep your spot",
+        "Drinks cost extra"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "lakeside-north-walk-2026-10-31",
+      "name": "Lakeside Garden (North) Guided Tour",
+      "category": "Outdoors & nature",
+      "when": "31 Oct · 9–11am",
+      "place": "Entrance Pavilion, North Carpark, Jurong Lake Gardens",
+      "price": "Free · registration required",
+      "desc": "Explore the garden’s biodiversity and landscapes with a guide. Registration closes three days before, or earlier if full. Bring water and walking shoes.",
+      "source": "NParks · Jurong Lake Gardens",
+      "sourceType": "Website",
+      "url": "https://juronglakegardens.nparks.gov.sg/things-to-do/guided-tours/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31"
+      ],
+      "endAt": "2026-10-31T11:00:00+08:00",
+      "featured": true,
+      "graphic": "A slower<br>Saturday.",
+      "color": "#d6e3be",
+      "ink": "#4d6539",
+      "image": {
+        "src": "/event-photos/lakeside-north-walk-2026-10-31.jpg",
+        "sourceUrl": "https://juronglakegardens.nparks.gov.sg/things-to-do/guided-tours/",
+        "credit": "NParks · Jurong Lake Gardens",
+        "fit": "cover",
+        "alt": "A guide leading visitors through Lakeside Garden, from NParks’ guided-tour page.",
+        "checkedAt": "2026-10-26",
+        "width": 4000,
+        "height": 3000
+      },
+      "area": "Jurong",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "09:00",
+        "end": "11:00"
+      },
+      "attendance": [
+        "Registration closes 3 days before, or earlier if full"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "lantern-midnight-masquerade-2026",
+      "name": "Halloween Midnight Masquerade at Lantern",
+      "category": "Bars & nightlife",
+      "when": "30–31 Oct · 7pm–1am; guest DJ 8–11pm",
+      "place": "Lantern rooftop bar, The Fullerton Bay Hotel Singapore",
+      "price": "Themed cocktails S$26++ each · check admission terms",
+      "desc": "A rooftop evening with Halloween cocktails, bites and a guest DJ. Food and drinks are charged separately. Reserve with the venue; the listing does not specify an admission fee.",
+      "source": "Lantern · The Fullerton Bay Hotel",
+      "sourceType": "Website",
+      "url": "https://www.fullertonhotels.com/fullerton-bay-hotel-singapore/offers/halloween-at-lantern",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "endAt": "2026-11-01T01:00:00+08:00",
+      "featured": false,
+      "graphic": "Rooftop views.<br>One more song.",
+      "color": "#ddc7ac",
+      "ink": "#704c36",
+      "image": {
+        "src": "/event-photos/lantern-masquerade-2026.jpg",
+        "credit": "The Fullerton Bay Hotel Singapore",
+        "alt": "Halloween decorations and themed food at Lantern rooftop bar, from the hotel’s event listing.",
+        "width": 1700,
+        "height": 1133,
+        "fit": "cover",
+        "sourceUrl": "https://www.fullertonhotels.com/fullerton-bay-hotel-singapore/offers/halloween-at-lantern",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "Marina Bay",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "calendarTime": {
+        "start": "19:00",
+        "end": "01:00"
+      },
+      "attendance": [
+        "Admission price not listed; food and drinks charged separately",
+        "Reserve with the venue"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "ipanema-easy-going-2026-10-30",
+      "name": "Easy Going Friday at Ipanema",
+      "category": "Bars & nightlife",
+      "when": "30 Oct · Easy Going 7.15pm; Ayesha Band 9.45pm; music till late",
+      "place": "Ipanema World Music Bar, YSY Building, 139 Cecil Street #12-01",
+      "price": "No cover charge · first drink purchase required",
+      "desc": "Start Friday with Easy Going live, followed by Ayesha Band. The venue’s nightly band and DJ programme continues until closing. There is no ticket fee, but the first drink is charged at the door.",
+      "source": "Ipanema World Music Bar",
+      "sourceType": "Website",
+      "url": "https://www.ipanemaworldmusicbar.com/event/after-office-early-live-band",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30"
+      ],
+      "endAt": "2026-10-31T03:00:00+08:00",
+      "featured": false,
+      "graphic": "Clock off.<br>Tune in.",
+      "color": "#d7d8cf",
+      "ink": "#364b44",
+      "image": {
+        "src": "/event-photos/ipanema-easy-going-2026.jpg",
+        "credit": "Ipanema World Music Bar",
+        "alt": "Easy Going band promotional photograph from Ipanema’s official event listing.",
+        "width": 799,
+        "height": 1280,
+        "fit": "contain",
+        "sourceUrl": "https://www.ipanemaworldmusicbar.com/event/after-office-early-live-band",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "CBD / Tanjong Pagar",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "calendarTime": {
+        "start": "19:15",
+        "end": "03:00"
+      },
+      "attendance": [
+        "First drink purchase required"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "kaya-halloween-time-machine-2026",
+      "name": "Ghost From the Past: A Halloween Time Machine",
+      "category": "Bars & nightlife",
+      "when": "31 Oct · Café 7–10.30pm; Kaya party from 9pm till late",
+      "place": "Café Standard & Kaya, The Standard, Singapore",
+      "price": "Café entry free · Kaya standing ticket S$39++",
+      "desc": "A Halloween evening of 80s, 90s and Y2K music, retro games and costumes. The café programme has free entry; the Kaya party is ticketed. A standing ticket includes two drinks and a Halloween shot. Confirm the late finishing time with the venue.",
+      "source": "The Standard, Singapore",
+      "sourceType": "Website",
+      "url": "https://www.standardhotels.com/singapore/happenings/ghost-from-the-past-a-halloween-time-machine",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31"
+      ],
+      "featured": false,
+      "graphic": "Your era.<br>Your dance floor.",
+      "color": "#e1c1a4",
+      "ink": "#743f2d",
+      "image": {
+        "src": "/event-photos/kaya-halloween-2026.jpg",
+        "credit": "The Standard, Singapore",
+        "alt": "Warm red archway used on The Standard’s Halloween Time Machine event listing.",
+        "width": 1200,
+        "height": 630,
+        "fit": "cover",
+        "sourceUrl": "https://www.standardhotels.com/singapore/happenings/ghost-from-the-past-a-halloween-time-machine",
+        "checkedAt": "2026-10-26"
+      },
+      "entryCost": {
+        "kind": "mixed"
+      },
+      "attendance": [
+        "Free café programme; Kaya party requires a ticket",
+        "Kaya standing ticket: two drinks and a shot included"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "moga-tokyo-after-dark-2026-10-30",
+      "name": "Tokyo After Dark: MOGĀ × Kinki",
+      "category": "Bars & nightlife",
+      "when": "30 Oct · 6pm till late; finishing time not listed",
+      "place": "MOGĀ, Level 1, Pullman Singapore Hill Street, 1 Hill Street",
+      "price": "Check original listing",
+      "desc": "A bar-and-kitchen takeover with cocktails, Japanese dishes and live music by THIS BAND THING. Ages 18 and above. Reservations recommended; walk-ins depend on availability. Check menu prices and cancellation terms before booking.",
+      "source": "MOGĀ · Pullman Singapore Hill Street",
+      "sourceType": "Website",
+      "url": "https://www.moga.com.sg/offer/tokyo-after-dark-moga-kinki/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30"
+      ],
+      "featured": false,
+      "graphic": "New pours.<br>Good company.",
+      "color": "#c7b6a5",
+      "ink": "#4d3a2e",
+      "image": {
+        "src": "/event-photos/moga-tokyo-after-dark-2026.jpg",
+        "credit": "MOGĀ · Pullman Singapore Hill Street",
+        "alt": "MOGĀ’s bar interior, pictured on its Tokyo After Dark event listing.",
+        "width": 1065,
+        "height": 684,
+        "fit": "cover",
+        "sourceUrl": "https://www.moga.com.sg/offer/tokyo-after-dark-moga-kinki/",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "Bugis / City Hall",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "attendance": [
+        "Ages 18 and above",
+        "Reservations recommended; walk-ins subject to availability"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "madame-ziggy-halloween-2026-10-31",
+      "name": "Ziggy: Halloween Carnival After Dark at Madame",
+      "category": "Bars & nightlife",
+      "when": "31 Oct · 9pm–midnight",
+      "place": "Madame, 69 Tras Street, Singapore 079008",
+      "price": "Free entry · drinks extra",
+      "desc": "A Halloween edition of Ziggy at Madame, with hip hop, R&B, dancehall and Afrobeats. The organiser’s poster gives a glitter-themed dress code and a 9pm–midnight programme. Reserve with the bar if you need a table.",
+      "source": "Madame",
+      "sourceType": "Website",
+      "url": "https://www.barmadame.com/",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-31"
+      ],
+      "endAt": "2026-11-01T00:00:00+08:00",
+      "featured": false,
+      "graphic": "Turn up.<br>Stay awhile.",
+      "color": "#d6bfbd",
+      "ink": "#623b3b",
+      "image": {
+        "src": "/event-photos/madame-ziggy-2026.png",
+        "credit": "Madame",
+        "alt": "Madame’s official Ziggy Halloween Carnival After Dark poster showing 31 October, 9pm to midnight.",
+        "width": 1414,
+        "height": 2000,
+        "fit": "contain",
+        "sourceUrl": "https://www.barmadame.com/",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "CBD / Tanjong Pagar",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "calendarTime": {
+        "start": "21:00",
+        "end": "00:00"
+      },
+      "attendance": [
+        "Drinks cost extra; reserve a table if needed"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "celavi-kenneth-f-2026-10-30",
+      "name": "Kenneth F at CÉ LA VI Sky Bar",
+      "category": "Bars & nightlife",
+      "when": "30 Oct · 10pm till late; finishing time not listed",
+      "place": "CÉ LA VI Sky Bar, Level 57, Marina Bay Sands",
+      "price": "Check original listing",
+      "desc": "A rooftop DJ night with Kenneth F, featuring soulful house, Afro-Latin grooves and funk. Ages 18 and above. The event is standing; table reservations require a minimum spend. Check entry pricing, dress code and availability with the venue.",
+      "source": "CÉ LA VI Singapore",
+      "sourceType": "Website",
+      "url": "https://sg.celavi.com/events/ce-la-vi-sky-bar-pres-kenneth-f",
+      "lastVerified": "2026-10-26",
+      "dates": [
+        "2026-10-30"
+      ],
+      "featured": false,
+      "graphic": "City lights.<br>Good rhythms.",
+      "color": "#c6ced4",
+      "ink": "#334650",
+      "image": {
+        "src": "/event-photos/celavi-kenneth-2026.jpg",
+        "credit": "CÉ LA VI Singapore",
+        "alt": "Kenneth F promotional portrait on CÉ LA VI’s official event listing.",
+        "width": 1080,
+        "height": 1080,
+        "fit": "cover",
+        "sourceUrl": "https://sg.celavi.com/events/ce-la-vi-sky-bar-pres-kenneth-f",
+        "checkedAt": "2026-10-26"
+      },
+      "area": "Marina Bay",
+      "entryCost": {
+        "kind": "unknown"
+      },
+      "attendance": [
+        "Ages 18 and above",
+        "Standing event; tables require a minimum spend",
+        "Check entry price and dress code"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    },
+    {
+      "id": "pokexciting-edm-stage-2026-11-07",
+      "name": "PokéXciting! Pikachu EDM Party",
+      "category": "Music & nightlife",
+      "when": "7–8 Nov · Evening shows at 4.30pm & 7.30pm; finish times not published",
+      "place": "Changi Airport Terminal 3, Departure Hall (public area)",
+      "price": "Free entry",
+      "desc": "Celebrate Pokémon’s 30th anniversary with Pikachu, dancers and EDM at the PokéXciting! Special Night Show. A public stage show for fans of all ages. The separate Pokémon parade takes place at Jewel.",
+      "source": "The Pokémon Company · Changi Airport",
+      "sourceType": "Website",
+      "url": "https://sg.portal-pokemon.com/30th/topics/pokexciting_news0/",
+      "lastVerified": "2026-11-05",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08"
+      ],
+      "featured": false,
+      "graphic": "Party with<br>Pikachu.",
+      "color": "#fae76b",
+      "ink": "#24202c",
+      "image": {
+        "src": "/event-photos/pokexciting-stage-2026.jpg",
+        "sourceUrl": "https://sg.portal-pokemon.com/30th/topics/pokexciting_news0/",
+        "assetUrl": "https://sg.portal-pokemon.com/images/170946e7e11d0b8779042b00c4d48c34.jpg",
+        "credit": "The Pokémon Company / official event illustration",
+        "alt": "Official illustration of the PokéXciting! Terminal 3 stage with Pikachu and neon music decorations; installation design subject to change.",
+        "width": 1920,
+        "height": 1079,
+        "fit": "cover",
+        "position": "center 65%",
+        "kind": "official",
+        "checkedAt": "2026-11-05"
+      },
+      "connectionType": "activity",
+      "publicCheckNote": "Evening shows: 4.30pm and 7.30pm. Changi’s guide also lists a 1pm daytime dance show. Check the latest schedule before travelling.",
+      "area": "Changi",
+      "entryCost": {
+        "kind": "free",
+        "from": 0
+      },
+      "attendance": [
+        "Check the organiser’s latest entry and queue arrangements before travelling",
+        "Evening show finishing times are not published"
+      ],
+      "factCheck": {
+        "status": "confirmed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+public/events.json
+public/lifecycle.mjs
+public/event-photos/
+public/sources.json
+OWNER-REVIEW.md
+.env*
+.vercel/
+.openai/
+research/
+.impeccable/
