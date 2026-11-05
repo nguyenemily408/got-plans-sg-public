@@ -4,7 +4,8 @@ export function matchesPeriod(event,period,now=new Date()){
  if(period==='all')return true;
  if(isPast(event,now))return false;
  const today=singaporeDate(now);
- const days=period==='today'?[today]:[shiftDate(weekBounds(now).start,5),shiftDate(weekBounds(now).start,6)].filter(day=>day>=today);
+ const bounds=weekBounds(now);
+ const days=period==='today'?[today]:period==='week'?Array.from({length:7},(_,index)=>shiftDate(bounds.start,index)).filter(day=>day>=today):[shiftDate(bounds.start,5),shiftDate(bounds.start,6)].filter(day=>day>=today);
  return eventDates(event).some(day=>days.includes(day));
 }
 export function participationNotes(event){
@@ -38,6 +39,7 @@ export function matchesCost(event,filter='all'){
  const cost=event.entryCost||{kind:'unknown'};
  if(filter==='all')return true;
  if(filter==='free')return cost.kind==='free';
+ if(filter==='over20')return cost.kind==='paid'&&Number.isFinite(cost.from)&&cost.from>20;
  if(filter==='low')return ['free','paid'].includes(cost.kind)&&Number.isFinite(cost.from)&&cost.from<=20;
  return cost.kind===filter;
 }
@@ -57,4 +59,14 @@ export function socialContext(event){
  if(!format)return null;
  const welcomesIndividuals=/individuals and groups/i.test(format);
  return {format:welcomesIndividuals?'Individuals & groups welcome.':format.replace(/\.$/,'')+'.',askSolo:!welcomesIndividuals};
+}
+
+export const priceFilters=[['all','Any entry price'],['free','Free entry'],['low','Up to S$20 (includes free)'],['over20','Over S$20'],['mixed','Free & paid activities'],['unknown','Price not confirmed']];
+// Offer real listed dates only, while respecting the current date filter.
+export function matchingDates(event,selectedDay='all',period='all',now=new Date()) {
+ const dates=eventDates(event);
+ if(isPast(event,now))return dates;
+ const {today,start,end}=weekBounds(now);
+ return dates.filter(day=>day>=today&&(selectedDay==='all'||day===selectedDay)&&
+  (period==='all'||period==='today'&&day===today||period==='week'&&day>=start&&day<=end||period==='weekend'&&[shiftDate(start,5),shiftDate(start,6)].includes(day)));
 }

@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {matchesPeriod,participationNotes,needsChecking,occurrenceDate,planType,eventTime,socialContext} from '../app/browse.mjs';
+import {matchesPeriod,participationNotes,needsChecking,occurrenceDate,planType,eventTime,socialContext,matchingDates,matchesCost} from '../app/browse.mjs';
 const monday=new Date('2026-10-26T10:00:00+08:00');
 assert(matchesPeriod({dates:['2026-10-31']},'weekend',monday));
 assert(!matchesPeriod({dates:['2026-11-07']},'weekend',monday));
@@ -37,3 +37,23 @@ assert(!socialContext({...social,desc:'Board games for individuals and groups. R
 assert.equal(socialContext({...social,verificationStatus:'unverified'}),null,'Do not promote unverified social arrangements');
 assert.equal(socialContext({...social,connectionType:'activity'}),null);
 console.log('Passed concise schedule display and confirmed-only social guidance without inferred solo admission.');
+
+assert(matchesPeriod({dates:['2026-10-31']},'week',monday));
+assert(!matchesPeriod({dates:['2026-11-02']},'week',monday),'Next Monday is outside the current week');
+assert(!matchesPeriod({dates:['2026-10-25']},'week',monday),'Finished events do not appear in this week');
+assert(matchesPeriod({dates:['2026-11-02']},'all',monday));
+assert(matchesPeriod({dates:['2026-11-01'],endAt:'2026-11-02T02:00:00+08:00'},'week',new Date('2026-11-02T01:00:00+08:00')),'Overnight Sunday event carries into the new week');
+console.log('Passed weekly versus all-upcoming date filters and Singapore overnight boundaries.');
+
+const show={dates:['2026-11-03','2026-11-05','2026-11-06','2026-11-07','2026-11-08','2026-11-10']};
+const thursday=new Date('2026-11-05T12:00:00+08:00');
+assert.deepEqual(matchingDates(show,'all','all',thursday),['2026-11-05','2026-11-06','2026-11-07','2026-11-08','2026-11-10']);
+assert.deepEqual(matchingDates(show,'all','weekend',thursday),['2026-11-07','2026-11-08']);
+assert.deepEqual(matchingDates(show,'2026-11-10','all',thursday),['2026-11-10']);
+assert.deepEqual(matchingDates(show,'all','today',thursday),['2026-11-05']);
+assert.deepEqual(matchingDates(show,'all','week',thursday),['2026-11-05','2026-11-06','2026-11-07','2026-11-08']);
+assert(matchesCost({entryCost:{kind:'paid',from:68}},'over20'));
+assert(!matchesCost({entryCost:{kind:'paid',from:20}},'over20'));
+assert(!matchesCost({entryCost:{kind:'unknown'}},'over20'));
+assert(matchesCost({entryCost:{kind:'free',from:0}},'low'));
+console.log('Passed repeat-date selection against filters and explicit entry-price ranges.');

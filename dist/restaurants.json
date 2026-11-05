@@ -1,0 +1,54 @@
+{
+  "lastUpdated": "2026-11-05",
+  "restaurants": [
+    {
+      "id": "greenwood-fish-market-vivocity-2026",
+      "name": "Greenwood Fish Market Bistro",
+      "kind": "Restaurant",
+      "cuisine": "Seafood",
+      "area": "HarbourFront",
+      "address": "VivoCity, 1 HarbourFront Walk, #01-188",
+      "openingDate": "2026-11-04",
+      "openingLabel": "Opening announced for 4 Nov 2026",
+      "status": "announced",
+      "description": "The seafood specialist’s first mall bistro, with oysters, pasta and sharing plates. The official page announces the opening date; check current service before making a trip.",
+      "hours": "Daily noon–10.30pm",
+      "price": "Weekday set lunch S$29.95++; excludes public holidays and their eves. Other menu prices vary.",
+      "url": "https://greenwoodfishmarket.com/vivocity/",
+      "menuUrl": "https://greenwoodfishmarket.com/wp-content/uploads/2026/10/VivoCity_Lunch-and-Dinner-Set-Menu_2026-2027.pdf",
+      "lastVerified": "2026-11-05",
+      "image": {
+        "src": "/event-photos/restaurant-greenwood-vivocity.jpg",
+        "alt": "Cold seafood platter with lobster, oysters, prawns and mussels from Greenwood Fish Market’s official VivoCity page.",
+        "width": 1400,
+        "height": 2100,
+        "sourceUrl": "https://greenwoodfishmarket.com/vivocity/",
+        "credit": "Greenwood Fish Market"
+      }
+    },
+    {
+      "id": "petra-dempsey-2026",
+      "name": "Petra",
+      "kind": "Restaurant",
+      "cuisine": "Mediterranean–Levantine",
+      "area": "Dempsey",
+      "address": "40C Harding Road, Level 1, Dempsey Hill",
+      "openingDate": "2026-10-24",
+      "openingLabel": "Reported opened 24 Oct 2026",
+      "status": "reported-open",
+      "description": "Mezze, fresh breads, seafood and grills in a garden setting at Dempsey. A new option for a long lunch or dinner with friends.",
+      "hours": "Lunch 11.30am–3pm; dinner from 5.30pm. Listed until 11pm Fri–Sat, 10.30pm other service days. Tuesday service isn’t listed—check before going.",
+      "price": "Check the current menu for prices",
+      "url": "https://www.petrarestaurant.sg/",
+      "lastVerified": "2026-11-05",
+      "image": {
+        "src": "/event-photos/restaurant-petra.jpg",
+        "alt": "Cucumber ceviche with fresh herbs on a ceramic plate, from Petra’s official restaurant website.",
+        "width": 1400,
+        "height": 933,
+        "sourceUrl": "https://www.petrarestaurant.sg/",
+        "credit": "Petra"
+      }
+    }
+  ]
+}

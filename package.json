@@ -5,9 +5,11 @@
   "scripts": {
     "dev": "node scripts/prepare-public.mjs && next dev --hostname 127.0.0.1",
     "build": "node scripts/prepare-public.mjs && next build --webpack",
-    "test": "node tests/lifecycle.test.mjs && node tests/browse.test.mjs"
+    "test": "node tests/lifecycle.test.mjs && node tests/browse.test.mjs && node tests/measurement.test.mjs && node tests/openings.test.mjs && node tests/navigation.test.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
     "next": "^16.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",

@@ -1,6 +1,6 @@
 # Got Plans? SG
 
-A mobile-friendly Singapore event guide built with Next.js and React. Includes search, date and category filters, event sharing and calendar reminders.
+A mobile-friendly Singapore guide built with Next.js and React. Discover events and new restaurants, cafés and bars, with original listings, clear filters, repeat-event date choices, sharing and calendar reminders.
 
 ## Run the app
 
@@ -11,12 +11,16 @@ npm ci
 npm run dev
 ```
 
-Open the local address shown in the terminal. Run `npm test` for date and browsing checks, and `npm run build` to create the static website in `out/`.
+Open the local address shown in the terminal. Run `npm test` for Singapore dates, browsing and navigation checks. Run `npm run build` to generate the static website in `out/`.
 
 ## Data and images
 
-`dist/events.json` contains a snapshot of visitor-facing event information. It is not a live feed; dates, prices and availability can change. Each event links to its organiser. Event photographs, official artwork and fonts retain their original credits and rights; source and licence information is included where recorded. No licence to third-party artwork is granted by this repository.
+`dist/events.json` and `dist/restaurants.json` contain snapshots of visitor-facing information. They are not live feeds; dates, prices and availability can change. Each listing links to its original source. Existing event IDs are preserved. Source images, official artwork and fonts retain their original credits and rights; this repository grants no licence to third-party artwork.
 
-This shareable copy excludes the owner's private research, Instagram watchlist, review notes, hosting identities and original Git history. Its source list starts empty. The weekly research automation runs separately in the owner's local project and is not installed by cloning this repository.
+The code includes recent preview improvements, so it can be ahead of the currently published website. Dates and filter results depend on the current Singapore date. The weekly research process runs separately and is not installed by cloning this repository.
 
-Publishing is manual; this repository does not automatically update the live website.
+## What this copy excludes
+
+This shareable copy excludes private research, the Instagram source watchlist, review notes, hosting identities, credentials and original private Git history. Its source list is empty. The unpublished suggestion/feedback form and its database functions are also excluded.
+
+This repository is not linked to automatic website deployment. Updating GitHub does not publish changes to the live app. No Convex account is needed to run this public app copy. Visitor/speed monitoring is restricted to the original live website domain.
